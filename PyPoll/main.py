@@ -5,6 +5,7 @@ import csv
 # Define path to dataset location
 election_data_csv_path = os.path.join("Resources", "election_data.csv")
 
+# Initialize variables
 vote_count = [] # Create a list to store vote counts
 candidates = [] # Create a list to store candidates
 

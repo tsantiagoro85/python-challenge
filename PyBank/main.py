@@ -5,6 +5,7 @@ import csv
 # Define path to dataset location
 budget_data_csv_path = os.path.join("Resources", "budget_data.csv")
 
+# Initialize variables
 months = [] # Create a list for months
 profit = [] # Create a list for profit
 
